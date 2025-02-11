@@ -1,2 +1,2 @@
 # Skipity
-Automatically skips video intros
+A google chrome extension which automatically skips Netflix's intros
